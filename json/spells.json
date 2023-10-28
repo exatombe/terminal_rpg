@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Fireball",
+    "cost": 10,
+    "dmg": 20,
+    "effect": "Burn_1_15",
+    "cooldown": 1,
+    "race": "",
+    "class": "",
+    "rarity": 1
+  },
+  {
+    "id": 2,
+    "name": "Heal",
+    "cost": 10,
+    "dmg": "",
+    "effect": "Heal_20",
+    "cooldown": 2,
+    "race": "",
+    "class": "priest;monk;hero",
+    "rarity": 1
+  },
+  {
+    "id": 3,
+    "name": "Heal II",
+    "cost": 30,
+    "dmg": "",
+    "effect": "Heal_50",
+    "cooldown": 2,
+    "race": "",
+    "class": "priest",
+    "rarity": 2
+  },
+  {
+    "id": 4,
+    "name": "Cheat Heal",
+    "cost": 20,
+    "dmg": "",
+    "effect": "Heal_100",
+    "cooldown": "",
+    "race": "",
+    "class": "",
+    "rarity": 0
+  },
+  {
+    "id": 5,
+    "name": "Cheat Restore",
+    "cost": "",
+    "dmg": "",
+    "effect": "Restore_100",
+    "cooldown": "",
+    "race": "",
+    "class": "",
+    "rarity": 0
+  },
+  {
+    "id": 6,
+    "name": "Cheat Fireball",
+    "cost": 20,
+    "dmg": 200,
+    "effect": "AOE",
+    "cooldown": "",
+    "race": "",
+    "class": "",
+    "rarity": 0
+  }
+]

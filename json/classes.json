@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Hero",
+    "strengths": [4, 5, 8, 9],
+    "weaknesses": [7, 8],
+    "attack_type": "physical",
+    "alignment": "good",
+    "rarity": 3
+  },
+  {
+    "id": 2,
+    "name": "Warrior",
+    "strengths": [3, 4],
+    "weaknesses": [7],
+    "attack_type": "physical",
+    "alignment": "good",
+    "rarity": 1
+  },
+  {
+    "id": 3,
+    "name": "Mage",
+    "strengths": [6, 9],
+    "weaknesses": [2, 4, 5],
+    "attack_type": "magical",
+    "alignment": "good",
+    "rarity": 1
+  },
+  {
+    "id": 4,
+    "name": "Dark Mage",
+    "strengths": [3, 9],
+    "weaknesses": [1, 2, 5],
+    "attack_type": "magical",
+    "alignment": "evil",
+    "rarity": 3
+  },
+  {
+    "id": 5,
+    "name": "Assassin",
+    "strengths": [3, 4, 9],
+    "weaknesses": [5, 7],
+    "attack_type": "physical",
+    "alignment": "evil",
+    "rarity": 4
+  },
+  {
+    "id": 6,
+    "name": "Priest",
+    "strengths": [9],
+    "weaknesses": [3, 8],
+    "attack_type": "magical",
+    "alignment": "good",
+    "rarity": 2
+  },
+  {
+    "id": 7,
+    "name": "Monk",
+    "strengths": [1, 2, 5],
+    "weaknesses": [],
+    "attack_type": "physical",
+    "alignment": "good",
+    "rarity": 1
+  },
+  {
+    "id": 8,
+    "name": "Death Knight",
+    "strengths": [1, 6],
+    "weaknesses": [1],
+    "attack_type": "physical",
+    "alignment": "evil",
+    "rarity": 5
+  },
+  {
+    "id": 9,
+    "name": "Necromancer",
+    "strengths": [4],
+    "weaknesses": [1, 3, 4, 5, 6],
+    "attack_type": "magical",
+    "alignment": "evil",
+    "rarity": 4
+  }
+]

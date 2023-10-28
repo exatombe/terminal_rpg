@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Hylian",
+    "strength": [12, 13, 15],
+    "weakness": [],
+    "rarity": ""
+  },
+  { "id": 2, "name": "Sheikah", "strength": [9], "weakness": [], "rarity": "" },
+  { "id": 3, "name": "Gerudo", "strength": [], "weakness": [], "rarity": "" },
+  { "id": 4, "name": "Zora", "strength": [], "weakness": [9], "rarity": "" },
+  { "id": 5, "name": "Goron", "strength": [], "weakness": [9], "rarity": "" },
+  { "id": 6, "name": "Kokiri", "strength": [], "weakness": [12], "rarity": "" },
+  { "id": 7, "name": "Twili", "strength": [], "weakness": [], "rarity": "" },
+  {
+    "id": 8,
+    "name": "Minish",
+    "strength": [],
+    "weakness": [9, 12],
+    "rarity": ""
+  },
+  {
+    "id": 9,
+    "name": "Humain",
+    "strength": [4, 5, 8, 11],
+    "weakness": [2, 12, 13],
+    "rarity": ""
+  },
+  {
+    "id": 10,
+    "name": "Reptilian",
+    "strength": [],
+    "weakness": [],
+    "rarity": ""
+  },
+  { "id": 11, "name": "Avian", "strength": [], "weakness": [9], "rarity": "" },
+  {
+    "id": 12,
+    "name": "Monster",
+    "strength": [6, 8, 9],
+    "weakness": [1, 14],
+    "rarity": ""
+  },
+  {
+    "id": 13,
+    "name": "Demon",
+    "strength": [9],
+    "weakness": [1, 14],
+    "rarity": ""
+  },
+  {
+    "id": 14,
+    "name": "Divine",
+    "strength": [12, 13, 15],
+    "weakness": [],
+    "rarity": ""
+  },
+  {
+    "id": 15,
+    "name": "Undead",
+    "strength": [],
+    "weakness": [1, 14],
+    "rarity": ""
+  },
+  {
+    "id": 16,
+    "name": "Insect",
+    "strength": [],
+    "weakness": [17],
+    "rarity": ""
+  },
+  {
+    "id": 17,
+    "name": "Machine",
+    "strength": [16],
+    "weakness": [],
+    "rarity": ""
+  }
+]

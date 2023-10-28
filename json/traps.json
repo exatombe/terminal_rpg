@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Pike Wall", "requirement": "STR_10", "rarity": 1 },
+  { "id": 2, "name": "Secret Code", "requirement": "INT_10", "rarity": 2 }
+]
