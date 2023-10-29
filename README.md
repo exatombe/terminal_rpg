@@ -3,12 +3,12 @@
 ## Step 1 - Install module
 
 ```bash
-> npm install
+npm install
 ```
 
 ## Step 2 - Run the game
 
 ```bash
-> npm start
+npm start
 ```
 
